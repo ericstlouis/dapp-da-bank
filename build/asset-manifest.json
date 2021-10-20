@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dapp-da-bank/static/css/main.e66e4bd3.chunk.css",
+    "main.js": "/dapp-da-bank/static/js/main.4155f516.chunk.js",
+    "main.js.map": "/dapp-da-bank/static/js/main.4155f516.chunk.js.map",
+    "runtime-main.js": "/dapp-da-bank/static/js/runtime-main.06ff6a72.js",
+    "runtime-main.js.map": "/dapp-da-bank/static/js/runtime-main.06ff6a72.js.map",
+    "static/js/2.b0084271.chunk.js": "/dapp-da-bank/static/js/2.b0084271.chunk.js",
+    "static/js/2.b0084271.chunk.js.map": "/dapp-da-bank/static/js/2.b0084271.chunk.js.map",
+    "static/js/3.db558c13.chunk.js": "/dapp-da-bank/static/js/3.db558c13.chunk.js",
+    "static/js/3.db558c13.chunk.js.map": "/dapp-da-bank/static/js/3.db558c13.chunk.js.map",
+    "index.html": "/dapp-da-bank/index.html",
+    "static/css/main.e66e4bd3.chunk.css.map": "/dapp-da-bank/static/css/main.e66e4bd3.chunk.css.map",
+    "static/js/2.b0084271.chunk.js.LICENSE.txt": "/dapp-da-bank/static/js/2.b0084271.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ff6a72.js",
+    "static/js/2.b0084271.chunk.js",
+    "static/css/main.e66e4bd3.chunk.css",
+    "static/js/main.4155f516.chunk.js"
+  ]
+}
