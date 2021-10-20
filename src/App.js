@@ -86,7 +86,7 @@ function App() {
     <div className="flex items-center justify-center h-screen">
       <header className="">
         <h1 className="text-3xl	text-center	">DA BANK</h1>
-        <p className="text-3xl text-center mb-2 ">A decentralized bank</p>
+        <p className="text-3xl text-center mb-2 ">A decentralized bank <br />must run on local Blockchain or hardhat node</p>
         <button className="text-2xl mb-5 " onClick={() => connectToWallet()}>{WalletConnected}</button>
         <p className="border-black border-solid	rounded-sm border-2 text-3xl	"> Bank vault: {vault} </p>
         <p className="border-black border-solid rounded-sm border-2	my-5 text-3xl	"> your Amount: {userAssets} </p>
